@@ -29,8 +29,8 @@ jobs:
           node-version: 22
 
       - name: Instalar dependências
-        run: npm install
-
+        run: npm install --legacy-peer-deps
+        
       - name: Compilar aplicação
         run: npm run build
 
