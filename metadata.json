@@ -1,0 +1,6 @@
+{
+  "name": "Encerramento e Dossier Fiscal PT",
+  "description": "Sistema profissional de gestão, controlo e validação do encerramento contabilístico, encerramento fiscal e dossier fiscal de empresas em Portugal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
